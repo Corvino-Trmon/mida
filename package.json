@@ -1,0 +1,17 @@
+{
+  "name": "discord-bot",
+  "version": "BETA 2.0.0",
+  "description": "Un bot al servizio del server di Corvino",
+  "main": "index.js",
+  "scripts": {
+    "test": "testbot"
+  },
+  "author": "Corvino",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "opusscript": "0.0.7",
+    "ytdl-core": "^4.4.3",
+    "ytsearcher": "^1.2.3"
+  }
+}
